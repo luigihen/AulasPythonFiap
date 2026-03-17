@@ -10,7 +10,7 @@ tres = 3
 print(um + dois + tres)
 
 pi = 3.14159265
-print(f'{pi:.3 f}')
+print(f'{pi:.3f}')
 check1 = float(input('insira a nota 1'))
 check2 = float(input('insira a nota 2'))
 media = check1 + check2 / 2
