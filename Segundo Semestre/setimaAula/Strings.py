@@ -30,3 +30,6 @@ print(titulo.center(50, "-"))
 print(titulo.rjust(50, "-"))
 print(titulo.ljust(50, "-"))
 
+print("boa", end="\n" "\n")
+print("noa")
+
